@@ -5,6 +5,8 @@ A basic Python module to represent the cookies in a cookie jar.
 
 ## Installation
 
+You can't, this is not on pip. But if it was -
+
 To install with pip on macOS or Linux, run:
 
     python3 -m pip install cookiejar
